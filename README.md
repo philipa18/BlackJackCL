@@ -12,11 +12,11 @@ Each hand’s value is the sum of its card values, subject to the following rule
 less, the Ace will be worth 11. Otherwise, the Ace will be worth 1, since a value
 of 11 would cause the player to bust.)
 After receiving his or her initial cards, the player can choose to do the following:
-- Hit- The player is dealt another card
-- Stand- The player takes no more cards. Once the player stands, the dealer then
+- Hit: The player is dealt another card
+- Stand: The player takes no more cards. Once the player stands, the dealer then
 reveals his or her second card and plays the hand according to the ‘Dealer
 behavior’ section below.
-- Double down- The player increases his or her bet up to 100% and must draw
+- Double down: The player increases his or her bet up to 100% and must draw
 exactly one more card, then stand. Can only be used after the player has
 received his or her first two cards.
 ---
