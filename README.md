@@ -11,6 +11,7 @@ Each hand’s value is the sum of its card values, subject to the following rule
 - Aces can be worth 1 or 11 points. (If the other cards in the hand sum to 10 or
 less, the Ace will be worth 11. Otherwise, the Ace will be worth 1, since a value
 of 11 would cause the player to bust.)
+
 After receiving his or her initial cards, the player can choose to do the following:
 - Hit: The player is dealt another card
 - Stand: The player takes no more cards. Once the player stands, the dealer then
