@@ -1,5 +1,5 @@
 # BlackJackCL
-Blackjack you can play on the command line
+Black Jack you can play on the command line
 ---
 The goal of the game is either to build a hand whose value is higher than that of the
 dealer’s without exceeding 21 (in which case, the player is said to be “bust” and loses,
